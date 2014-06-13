@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AStar">
+</Property><Property Name="Solution File" Value="C:\Users\HMS\Desktop\PathPlanning Framework\PathPlanning Framework\Visual Studio\AStar\AStar.sln">
+</Property><Property Name="User Options File" Value="C:\Users\HMS\Desktop\PathPlanning Framework\PathPlanning Framework\Visual Studio\AStar\AStar.suo">
+</Property><Property Name="Date" Value="Sunday, June 24, 2012">
+</Property><Property Name="Time" Value="15:12 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AStar.sln" Description="File successfully backed up as C:\Users\HMS\Desktop\PathPlanning Framework\PathPlanning Framework\Visual Studio\AStar\AStar.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="AStar.suo" Description="File successfully backed up as C:\Users\HMS\Desktop\PathPlanning Framework\PathPlanning Framework\Visual Studio\AStar\AStar.suo.old">
+</Event><Event ErrorLevel="0" Project="AStar" Source="AStar\AStar.vcproj" Description="Converting project file 'C:\Users\HMS\Desktop\PathPlanning Framework\PathPlanning Framework\Visual Studio\AStar\AStar\AStar.vcproj'.">
+</Event><Event ErrorLevel="1" Project="AStar" Source="AStar\AStar.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="AStar" Source="AStar\AStar.vcproj" Description="Done converting to new project file 'C:\Users\HMS\Desktop\PathPlanning Framework\PathPlanning Framework\Visual Studio\AStar\AStar\AStar.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="AStar" Source="AStar\AStar.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AStar.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AStar.sln" Description="Converted">
+</Event></UpgradeLog>

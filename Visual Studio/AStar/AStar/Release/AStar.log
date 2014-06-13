@@ -1,0 +1,48 @@
+﻿Build started 6/29/2012 4:15:33 AM.
+     1>Project "C:\Users\hms\Documents\Shijing Liu\New\PathPlanning Framework\Visual Studio\AStar\AStar\AStar.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\AStar.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\AStar.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Plugin.cpp Wander.cpp
+         Plugin.cpp
+         Wander.cpp
+     1>Wander.cpp(52): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>Wander.cpp(54): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>Wander.cpp(67): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>Wander.cpp(43): warning C4101: 'y' : unreferenced local variable
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hms\Documents\Shijing Liu\New\PathPlanning Framework\Visual Studio\AStar\Release\AStar.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\AStar.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\hms\Documents\Shijing Liu\New\PathPlanning Framework\Visual Studio\AStar\Release\AStar.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hms\Documents\Shijing Liu\New\PathPlanning Framework\Visual Studio\AStar\Release\AStar.lib" /MACHINE:X86 /DLL Release\Alignment.obj
+         Release\Arrival.obj
+         Release\Avoid.obj
+         Release\Behavior.obj
+         Release\Cohesion.obj
+         Release\Departure.obj
+         Release\Environment.obj
+         Release\Flee.obj
+         Release\Flocking.obj
+         Release\FollowPath.obj
+         Release\Leader.obj
+         Release\Node.obj
+         Release\NodeTotalGreater.obj
+         Release\Plugin.obj
+         Release\PriorityQueue.obj
+         Release\Seek.obj
+         Release\Separation.obj
+         Release\stdafx.obj
+         Release\Transformation.obj
+         Release\Wander.obj
+            Creating library C:\Users\hms\Documents\Shijing Liu\New\PathPlanning Framework\Visual Studio\AStar\Release\AStar.lib and object C:\Users\hms\Documents\Shijing Liu\New\PathPlanning Framework\Visual Studio\AStar\Release\AStar.exp
+         Generating code
+         Finished generating code
+         AStar.vcxproj -> C:\Users\hms\Documents\Shijing Liu\New\PathPlanning Framework\Visual Studio\AStar\Release\AStar.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\hms\Documents\Shijing Liu\New\PathPlanning Framework\Visual Studio\AStar\Release\AStar.dll;#2" /manifest Release\AStar.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\AStar.unsuccessfulbuild".
+         Touching "Release\AStar.lastbuildstate".
+     1>Done Building Project "C:\Users\hms\Documents\Shijing Liu\New\PathPlanning Framework\Visual Studio\AStar\AStar\AStar.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.46
